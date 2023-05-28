@@ -1,0 +1,23 @@
+body{
+    background-color: #E3F2C1;
+    max-width: max-content;
+    margin: auto;
+}
+
+hr{
+    width: 40%;
+    border-color: white;
+}
+table{
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+img{
+    width: auto;
+    height: 300px;
+}
+h1,h3,p,table,ul,form{
+    font-family: 'Courier New', Courier, monospace;
+}
